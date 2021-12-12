@@ -1,7 +1,6 @@
 # Created by Michael Fortanely on December 12, 2021
 # Inspiration for this program provided by Abdul Bari
 # 4.3 Matrix Chain Multiplication - Dynamic Programming: https://youtu.be/prx1psByp7U
-import numpy
 import numpy as np
 
 
